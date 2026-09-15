@@ -77,7 +77,7 @@ void Multiplicar_64(unsigned long long *A,unsigned long long *B,unsigned long lo
     for(i=63;i>-1;i--){
         Cont = 0;
         for(j=63;j>-1;j--){
-            if((i+j+1)==63){
+            if(127-(i+j+1)==64){
                 Cont = 1;
             }
             if (i==63){
