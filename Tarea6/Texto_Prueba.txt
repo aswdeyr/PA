@@ -1,0 +1,4 @@
+Esto es un texto de prueba para PA
+Esta tarea consiste en aplicar la codificación de Huffman
+Tambien se tiene que decodificar y reconstruir el archivo final
+Fin
